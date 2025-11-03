@@ -1,8 +1,1 @@
-{
-  "/page": "app/page.js",
-  "/doctor-list/page": "app/doctor-list/page.js",
-  "/patient/booking/[doctorId]/page": "app/patient/booking/[doctorId]/page.js",
-  "/(dashboard)/patient/dashboard/page": "app/(dashboard)/patient/dashboard/page.js",
-  "/(auth)/login/doctor/page": "app/(auth)/login/doctor/page.js",
-  "/onboarding/patient/page": "app/onboarding/patient/page.js"
-}
+{}
